@@ -1,0 +1,32 @@
+.main-section {
+    background-image: url(../images/backgrounds/gradient.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20px 41px;
+    padding-bottom: 0;
+    display: flex;
+}
+.main-section h1 {
+    color: white;
+    font-weight: lighter;
+}
+
+.main-section h2 {
+    color: #b3b3af;
+    font-weight: lighter;
+    padding-right: 50px;
+}
+
+.main-img {
+    width: 273px;
+    margin-right: 76.8px;
+}
+.right-text {
+    color: white;
+    text-indent: 1em;
+    margin-top: 20px;
+}
+
+.right-text strong {
+    color: #78dafd;
+}

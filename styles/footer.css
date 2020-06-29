@@ -1,0 +1,26 @@
+.box{
+    display: flex;
+    background-color: #36383f;
+    height:47px;
+    text-align: center;
+}
+.box > .box1 {
+    color: white;
+    outline: #676767;
+    outline-width: 1px;
+    outline-style: solid;
+    padding: 13px 38.7px;
+}
+
+@font-face {
+    font-family: "DTL Nobel T Condensed Bold";
+    src: url(/DTL\ Nobel\ T\ Condensed\ Bold.otf);
+}
+.box1 strong {
+    font-family: "DTL Nobel T Condensed Bold" sans-serif ;
+}
+
+.emptyspace {
+    background-color: #191a1d;
+    height: 100%;
+}
